@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,firebase,git,github,vscode,figma&theme=dark" />
 </p>
 
----
+
 
 
 ---
@@ -58,7 +58,7 @@
 
 ---
 
----
+
 
 <p align="center">
   💡 <i>"Simplicity is the ultimate sophistication."</i>
