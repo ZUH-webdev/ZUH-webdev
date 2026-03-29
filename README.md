@@ -48,11 +48,16 @@ I enjoy transforming simple concepts into polished, high-end interfaces
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-# 📊 GitHub Stats:
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZAIN1786-TECH&theme=radical&hide_border=true
-https://streak-stats.demolab.com?user=ZAIN1786-TECH&theme=radical&hide_border=true
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZAIN1786-TECH&layout=compact&theme=radical&hide_border=true
-https://github-profile-trophy.vercel.app/?username=ZAIN1786-TECH&theme=radical&no-frame=true&no-bg=true
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZAIN1786-TECH&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=ZAIN1786-TECH&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZAIN1786-TECH&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZAIN1786-TECH&theme=dark&no-frame=false&no-bg=true&margin-w=4)
